@@ -1,0 +1,3 @@
+# Web-Speech-Lang이란...
+
+# speechAPI를 test 해볼겸 학습 목적의 프로잭트입니다.
